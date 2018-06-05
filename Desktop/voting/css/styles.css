@@ -1,0 +1,17 @@
+.jumbotron{
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+#under18{
+  display: none;
+}
+
+#over18{
+  display: none;
+}
+
+#over65{
+  display: none;
+}
